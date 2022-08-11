@@ -2898,10 +2898,10 @@ rollup-pluginutils@^2.8.2:
   dependencies:
     estree-walker "^0.6.1"
 
-rollup@^2.56.1:
-  version "2.56.1"
-  resolved "https://registry.npmjs.org/rollup/-/rollup-2.56.1.tgz#f29dbc04a5d532dfa904f76b62395f359506211e"
-  integrity sha512-KkrsNjeiTfGJMUFBi/PNfj3fnt70akqdoNXOjlzwo98uA1qrlkmgt6SGaK5OwhyDYCVnJb6jb2Xa2wbI47P4Nw==
+rollup@^2.77.3:
+  version "2.77.3"
+  resolved "https://registry.npmjs.org/rollup/-/rollup-2.77.3.tgz#8f00418d3a2740036e15deb653bed1a90ee0cc12"
+  integrity sha512-/qxNTG7FbmefJWoeeYJFbHehJ2HNWnjkAFRKzWN/45eNBBF/r8lo992CwcJXEzyVxs5FmfId+vTSTQDb+bxA+g==
   optionalDependencies:
     fsevents "~2.3.2"
 
