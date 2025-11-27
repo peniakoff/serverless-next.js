@@ -24,7 +24,7 @@
     "chokidar": "^3.4.1",
     "dotenv": "^10.0.0",
     "figures": "^4.0.0",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "prettyoutput": "^1.2.0",
     "strip-ansi": "^7.0.0"
   },
